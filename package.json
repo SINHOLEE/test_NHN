@@ -29,6 +29,8 @@
     "@testing-library/cypress": "^4.2.0",
     "@testing-library/dom": "^6.11.0",
     "@testing-library/jest-dom": "^4.2.4",
+    "@types/jest": "^26.0.22",
+    "@types/jquery": "^3.5.5",
     "axios-mock-adapter": "^1.17.0",
     "babel-jest": "^24.9.0",
     "cypress": "^3.8.2",
